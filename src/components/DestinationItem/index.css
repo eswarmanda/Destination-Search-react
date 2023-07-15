@@ -1,0 +1,11 @@
+.list-item {
+  list-style-type: none;
+  margin: 10px;
+}
+.img {
+  height: 150px;
+}
+.heading1 {
+  font-size: small;
+  text-align: left;
+}

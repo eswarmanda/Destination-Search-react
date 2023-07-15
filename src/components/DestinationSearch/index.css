@@ -1,0 +1,43 @@
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.container {
+  padding: 10px;
+}
+.heading {
+  font-size: x-large;
+}
+.input {
+  height: 45px;
+  width: 250px;
+  border-bottom-left-radius: 10px;
+  border-top-left-radius: 10px;
+  padding: 10px;
+  border: none;
+  outline: none;
+  background-color: #f1f5f9;
+}
+.ul-list {
+  display: flex;
+  width: 800px;
+  flex-wrap: wrap;
+  padding: 10px;
+}
+.input-card {
+  display: flex;
+  justify-content: center;
+}
+.search-img {
+  height: 20px;
+  margin: 10px;
+}
+.search-card {
+  display: flex;
+  align-items: center;
+  background-color: #f1f5f9;
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px;
+}
